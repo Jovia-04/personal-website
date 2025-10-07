@@ -31,6 +31,3 @@ portfolio/
 
 
 
-Include animation on scroll
-
-Host portfolio online using GitHub Pages or Netlify
